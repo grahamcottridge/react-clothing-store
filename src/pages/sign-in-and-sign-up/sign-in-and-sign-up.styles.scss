@@ -1,6 +1,18 @@
 .sign-in-and-sign-up {
-  width: 850px;
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
   margin: 30px auto;
+}
+
+@media screen and (max-width: 600px) {
+  .sign-in-and-sign-up {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 40px;
+    width: unset;
+    > *:first-child {
+      margin-bottom: 50px;
+    }
+  }
 }
