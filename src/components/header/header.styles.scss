@@ -11,8 +11,15 @@
     padding: 25px;
   }
 
+  @media screen and (max-width: 800px) {
+    .logo-container {
+      width: 50px;
+      padding: 0;
+    }
+  }
+
   .options {
-    width: 75%;
+    width: 50%;
     height: 100%;
     display: flex;
     align-items: center;
@@ -22,5 +29,22 @@
       padding: 10px 15px;
       cursor: pointer;
     }
+  }
+
+  @media screen and (max-width: 800px) {
+    .options {
+      width: 81%;
+      .option {
+        padding: 10px 10px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .header {
+    height: 60px;
+    padding: 10px;
+    margin-bottom: 20px;
   }
 }
