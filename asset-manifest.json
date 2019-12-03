@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-clothing-store/static/css/main.0ed211bd.chunk.css",
+    "main.js": "/react-clothing-store/static/js/main.4d9f6d2d.chunk.js",
+    "main.js.map": "/react-clothing-store/static/js/main.4d9f6d2d.chunk.js.map",
+    "runtime~main.js": "/react-clothing-store/static/js/runtime~main.2ce16248.js",
+    "runtime~main.js.map": "/react-clothing-store/static/js/runtime~main.2ce16248.js.map",
+    "static/js/2.33989df0.chunk.js": "/react-clothing-store/static/js/2.33989df0.chunk.js",
+    "static/js/2.33989df0.chunk.js.map": "/react-clothing-store/static/js/2.33989df0.chunk.js.map",
+    "index.html": "/react-clothing-store/index.html",
+    "precache-manifest.87a83c9febaa12674d74ccc16fe7b27f.js": "/react-clothing-store/precache-manifest.87a83c9febaa12674d74ccc16fe7b27f.js",
+    "service-worker.js": "/react-clothing-store/service-worker.js",
+    "static/css/main.0ed211bd.chunk.css.map": "/react-clothing-store/static/css/main.0ed211bd.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/react-clothing-store/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/react-clothing-store/static/media/shopping-bag.30f07071.svg"
+  }
+}
